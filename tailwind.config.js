@@ -9,6 +9,8 @@ module.exports = {
         neutral: "#F9F6F4", // Cor neutra/bege claro
         accent: "#F7BBBC", // Rosa suave
         muted: "#D18085", // Rosa mais escuro
+        aaa: "#D12385",
+        sss: "#A98085",
       },
     },
   },
