@@ -87,7 +87,6 @@ onMounted(() => {
     <section class="flex relative w-full">
       <video
         class="pointer-events-none h-screen w-full object-cover mix-blend-darken"
-        controls
         autoplay
         loop
         muted
